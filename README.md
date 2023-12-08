@@ -1,4 +1,7 @@
-### 안녕하세요. 이지나입니다. 👋
+<H2>안녕하세요. 이지나입니다. 👋</H2>
+<li>
+  <ul>이메일 - zz60415@gmail.com</ul>
+</li>
 
 <!--
 **jinaleee/jinaleee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
