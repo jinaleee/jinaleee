@@ -1,5 +1,4 @@
-<H2>안녕하세요. 이지나입니다. 👋</H2>
-<li>이메일 - zz60415@gmail.com</li>
+###안녕하세요. 이지나입니다. 👋
 <br>
 <h2>🛠 Stacks</h2>
 <div>
@@ -20,17 +19,7 @@
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
-<!--
-**jinaleee/jinaleee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<h2>팀 프로젝트</h2>
+🏡 통합 가구 판매 사이트 'ANESI'
+<li>깃허브 주소 - https://github.com/Jeongseonil/anesi.git</li>
