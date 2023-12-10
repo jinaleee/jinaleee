@@ -1,8 +1,14 @@
-<h3>안녕하세요. 이지나입니다. 😊</h3> 
+<h3>🙋‍♀️ 이지나(Jina Lee)</h3> 
+<h4>안녕하세요. 이지나 입니다. 😊</h4>
+✉ <b>email : </b> zz60415@naver.com
+<br>
+📞 <b>phone : </b> 010-5923-9683
 
 <br>
+<br>
+<br>
 
-<h2>🛠 프로그래밍 언어 Stacks</h2>
+<h2>🛠 Skills</h2>
 <div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -23,6 +29,7 @@
 </div>
 
 <br>
+<br>
 
 <h2>👨‍👨‍👧‍👧 팀 프로젝트</h2>
 
@@ -42,3 +49,15 @@
   <ul> - 전시회, 작품 리스트 페이지 개발, 전시, 작품, 작가, 갤러리 상세 페이지 개발, 기대평, 한줄평 작성 기능 구현, 마이페이지 전체 CSS, 나의 컬렉션 페이지 개발, 전체 페이지 스타일 관리, 검색, 필터링 기능 개발 </ul>
 </li>
 
+<br>
+
+## 🤹‍♀️ 미니 프로젝트
+* 호텔 홈페이지 만들기 : <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> https://github.com/jinaleee/java-eclips.git
+* 리액트 SNS 만들기 : <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> https://github.com/jinaleee/reactSNS.git
+
+<br>
+
+<h2>📚 교육 사항</h2>
+<h4> AWS 클라우드기반 자바&스프링&리액트 풀스택 개발자 양성 수료(2023.05. ~ 2023.11.)</h4>
+
+<br>
